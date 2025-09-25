@@ -1,0 +1,88 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  background: #f9f9f9;
+  color: #000000;
+}
+
+
+header {
+  font-family: 'Oswald', sans-serif;
+  background: #01afffb2;
+  color: white;
+  padding: 1rem;
+}
+
+header ul {
+  font-family: 'Oswald', sans-serif;
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+  padding: 0;
+}
+
+header a {
+    font-family: 'Oswald', sans-serif;
+  color: white;
+  text-decoration: none;
+}
+
+
+section {
+  font-family: 'Oswald', sans-serif;
+  padding: 2rem;
+  text-align: center;
+}
+
+section img {
+  border-radius:50px;
+  margin: 1%;
+  padding: 0.1%;
+  height: 400px;
+  width: auto;
+}
+
+#sobre h2{
+  font-family: 'Oswald', sans-serif;
+
+}
+
+#sobre p {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 150%; 
+}
+
+
+#projetos ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+#projetos li {
+  background: #01afff75;
+  padding: 1rem;
+  margin: 1rem;
+  border-radius: 8px;
+  width: 200px;
+  box-shadow: 0 2px 5px rgb(190, 189, 188);
+  color: #ffffff;
+}
+
+#contato {
+  font-family: 'Oswald', sans-serif;
+}
+
+footer {
+  background: #01afffb2;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+}
+
+footer a {
+  color: #0818fa;
+  text-decoration: none;
+}
+
